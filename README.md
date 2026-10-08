@@ -34,3 +34,11 @@ hint: you can use "git help" to open the terminal manual or "git help -a" to lis
 4. Check Status: Run a command to display the difference between staged and unstaged changes.
 5. Add, commit (message: "Added secret file"),pull and push secret.txt using only terminal commands.
 
+
+## My submission
+
+![Course logo](DataSciEES_logo.jpg)
+
+[R Markdown report source](submission/My_Submission.Rmd)
+
+[Download the rendered HTML report](submission/My_Submission.html)

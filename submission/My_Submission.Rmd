@@ -1,0 +1,20 @@
+---
+title: "My Submission"
+author: "Joyce Luo"
+date: "2026-10-08"
+output: html_document
+---
+
+## Why version control is useful
+
+1. It records changes with informative commit messages, so we can understand how and why a project developed.
+2. It lets us compare versions and recover earlier work when a change introduces a mistake.
+3. It supports collaboration through branches and merging, allowing people to contribute to the same project.
+
+## A simple calculation
+
+This R code chunk calculates one plus one and shows the result.
+
+```{r addition}
+1 + 1
+```
